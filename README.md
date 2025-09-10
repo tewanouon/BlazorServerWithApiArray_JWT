@@ -1,4 +1,4 @@
-Net core 8.0
+.Net Core 8 & Blazor server
 ----------------------------------------
 Blazor Server API + JWT Quick Start
 Steps to Use:
